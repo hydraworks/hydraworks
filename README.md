@@ -1,7 +1,7 @@
+![ADD ALT TEXT HERE](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_FREE_PALESTINE-techforpalestine.org-000?labelColor=grey&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
 - 👋 Hi, I’m @hydraworks
 - 👀 I’m interested in ui/ux design for good
 - 🌱 I’m currently learning three.js & pen testing
-- 📫 How to reach me ... discord @exodile
 - 😄 Pronouns: he/him
 
 <!---
